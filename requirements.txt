@@ -1,0 +1,4 @@
+colorama
+pygame
+pythonping
+bcrypt
