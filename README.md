@@ -1,57 +1,46 @@
 <h1 align="center">
-  <a href="https://github.com/steveiliop56/PyOS"><img src="logo.png" alt="A pythos os better than windows " height="50%" width="50%"></a>
-  <br>
-  <br>
+  <a href="#"><img src="logo.png" alt="A Python-based operating system" height="50%" width="50%"></a>
+  <br><br>
   PyOS
   <br>
 </h1>
 
-<h4 align="center">An os that is written in python and it's better than windows 👍</h4>
+<h4 align="center">An OS written in Python, built to explore academic concepts through real-world implementation.</h4>
 
 ## Story
 
-Soooo this is a small side project that I do just for fun when I have free time! I started it some months ago and I still develop it just for having something to do. The os is simple but colorful, fun to add your own commands and ready to use.
+This project started as a small side experiment developed during my free time. I was keen to implement the academic concepts taught in college — such as Operating System fundamentals, process management, file handling, and user interaction — into a real-world, hands-on project.  
+
+The goal of **PyOS** is to build something fun, simple, and interactive while learning how real operating systems function internally. It continues to evolve as a lightweight platform that demonstrates how theory meets practice in system design.
 
 ## Features
 
 Get ready for...
 
-- 😮 An interactive command line interface with a a million different colors so your eyes will return to grayscale!
-- 😎 Authentication system so your password will be hashed and NOBODY will be able to login so your unencrypted files can be safe!
-- 🤑 Ability to add your own commands with as little lines of code as possible.
-- 😄 As little requirements as possible so you can get to the fun part quickly.
-- 😁 Anddd in any way it's better than windows!
+- An interactive command-line interface with customizable color support for a dynamic experience.  
+- An authentication system with password hashing to ensure basic security for your files.  
+- Ability to add your own commands with minimal lines of code.  
+- Minimal setup requirements to get started quickly.  
+- Lightweight, extensible design that makes experimenting easy and enjoyable.
 
 ## Default Login
 
-Whoops, forgot to mention that the default credentials are `root` and `root`.
+Default credentials:  
+- **Username:** root  
+- **Password:** root  
 
 ## Development
 
-The os will be developed as quickly as I possibly can™ (get ready for decade updates!) and I will try to add as many features as possible. Please open an issue for any issue you encounter. I am also happy to approve pull requests!
+The OS will continue to be developed as time allows, with a focus on exploring more core OS features and improving overall functionality.  
+Please feel free to open an issue if you encounter any problems or have suggestions. Pull requests for improvements are welcome as well.
 
-## Installation And Running (2 in 1 😱)!
+## Installation And Running
 
-If you still want to install it (what are you doing with your life? 😂) you can follow the 3 COMMAND INSTALLATION which was extremely hard to make (yeah for sure 🙄) but works!
-
-(Please make sure you have <span style="color:lightblue">Python3.10</span> installed else your computer will catch fire, what are you doing with python2?)
-
-(Oh also the os doesn't work with windows beause of course it wouldn't work with windows 😅)
+If you wish to try it out, follow the steps below to install and run **PyOS**:
 
 ```shell
-echo "Installing pyos!!!"
-(https://github.com/kushagra8881/pyos.git)
+echo "Installing PyOS..."
+git clone https://github.com/yourusername/pyos.git
 cd PyOS/
 pip3 install -r requirements.txt
 python3 pyos.py
-```
-
-(Yeahh maybe it's a little more than 3 but still THE BASE COMMANDS ARE 3)
-
-## Try the awesome GUI 🤩!
-
-My eyes couldn't handle how bad it was, soooo, I deleted it 😁!
-
-## License
-
-The license is a simple GNU v3 so you can play with the code as much as your heart want. I am also not responsible if you manage to fry your computer with a simple python program. Good luck explaining to the warranty what happened 😁.
